@@ -48,7 +48,7 @@
     var container = document.getElementById('mynetwork');
     var options = {
       nodes: {
-        shape: 'oral',
+        shape: 'square',
         scaling: {
           min: 10,
           max: 30

@@ -693,7 +693,7 @@ var nodes = [
   {id: 692, label: 'Valentin Stocker', title: 'Country: ' + 'Switzerland' + '<br>' + 'Team: ' + 'Basel', value: 25, group: 0, x: 93.94299, y: 165.77863},
   {id: 693, label: 'Valon Behrami', title: 'Country: ' + 'Switzerland' + '<br>' + 'Team: ' + 'Napoli', value: 31, group: 0, x: -152.94186, y: 233.43562},
   {id: 694, label: 'Vangelis Moras', title: 'Country: ' + 'Greece' + '<br>' + 'Team: ' + 'Verona', value: 22, group: 15, x: 1602.7228, y: 488.25735},
-  {id: 695, label: 'Vasili Berezutski (c)', title: 'Country: ' + 'Russia' + '<br>' + 'Team: ' + 'CSKA Moscow', value: 1000, group: 2, x: -1323.1439, y: -1494.2708},
+  {id: 695, label: 'Vasili Berezutski (c)', title: 'Country: ' + 'Russia' + '<br>' + 'Team: ' + 'CSKA Moscow', value: 23, group: 2, x: -1323.1439, y: -1494.2708},
   {id: 696, label: 'Vasilis Torosidis', title: 'Country: ' + 'Greece' + '<br>' + 'Team: ' + 'Roma', value: 26, group: 15, x: 1423.1809, y: 425.1927},
   {id: 697, label: 'Vedad Ibiševic', title: 'Country: ' + 'Bosnia and Herzegovina' + '<br>' + 'Team: ' + 'VfB Stuttgart', value: 25, group: 20, x: 1011.34985, y: -507.73672},
   {id: 698, label: 'Vedran Corluka', title: 'Country: ' + 'Croatia' + '<br>' + 'Team: ' + 'Lokomotiv Moscow', value: 23, group: 25, x: -415.4615, y: 539.5565},
